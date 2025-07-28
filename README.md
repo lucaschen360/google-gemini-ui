@@ -5,8 +5,6 @@ Experience the new Google AI Model 'Gemini' on any device.
 This application is pure front-end, the API key and your name are stored in your browser and used to make requests, and all server connections are made directly to Google Servers.
 [Test it online](https://google-gemini-ui.vercel.app/)
 
-![Captura de pantalla 2024-01-24 a las 10 03 21](https://github.com/fjosue4/google-gemini-ui/assets/85136931/05d836b1-7fb1-4df4-8515-d5b7ebffd1a9)
-
 
 ## Changelog
 
@@ -18,12 +16,12 @@ This application is pure front-end, the API key and your name are stored in your
 - Fix: Gemini now understands the Chat History.
 - Hotfix: Last outbound message was being sent twice.
 
-![image](https://github.com/fjosue4/google-gemini-ui/assets/85136931/b4f15537-6e23-482f-9822-d9d4191dc320)
+![image](https://github.com/lucaschen360/google-gemini-ui/assets/85136931/b4f15537-6e23-482f-9822-d9d4191dc320)
 
 ## ⚠️ Before this fix, every message was an independent prompt.
 
-![image](https://github.com/fjosue4/google-gemini-ui/assets/85136931/ca32447d-aded-488d-866b-8f5db594e04b)
-![image](https://github.com/fjosue4/google-gemini-ui/assets/85136931/122d3a93-1011-458d-b064-c650213fc209)
+![image](https://github.com/lucaschen360/google-gemini-ui/assets/85136931/ca32447d-aded-488d-866b-8f5db594e04b)
+![image](https://github.com/lucaschen360/google-gemini-ui/assets/85136931/122d3a93-1011-458d-b064-c650213fc209)
 
 
 ## Features requested:
@@ -36,14 +34,3 @@ This application is pure front-end, the API key and your name are stored in your
 ## How to Run Locally:
 - npm i
 - npm start
-
-### Run with Docker
-
-```sh
-docker compose up # http://localhost:5173
-```
-
-## Deploy is ready for Vercel.
-
-## Not using Vercel to deploy?
-Check this [step-by-step guide](https://www.tssfl.com/viewtopic.php?t=6778) created by [@TSSFL](https://github.com/TSSFL)
